@@ -1,43 +1,62 @@
 <div align="center">  
     <a href="https://architecte-firm.netlify.app/" target="_blank">  
-      <img src="docs/architecte-firm_ui_img.png" alt="Aperçu du projet">  
+    <!-- <a href="https://background-animation-architect.netlify.app/" target="_blank">  -->
+      <img src=".docs/preview.png" alt="Aperçu du projet">  
     </a>
     </br>  
     </br>  
-  <h3 align="center">🏡 Architecte</h3>  
-</div>
+<h3 align="center">🏛️ Page Architecte – Slider Visuel Haut de Gamme</h3></div>
 
 ## <br /> 📌 Sommaire
 
 &nbsp;&nbsp;&nbsp; 🎨 &nbsp; [**Introduction**](#introduction)<br />
-&nbsp;&nbsp;&nbsp; 🛠️ &nbsp; [**Technologies**](#️technologies)<br />
+&nbsp;&nbsp;&nbsp; 🛠️ &nbsp; [**Technologies**](#technologies)<br />
+&nbsp;&nbsp;&nbsp; 🎯 &nbsp; [**Fonctionnalités**](#fonctionnalités)<br />
 &nbsp;&nbsp;&nbsp; 🚀 &nbsp; [**Installation**](#installation)<br />
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
 Création d'une landing page moderne et minimaliste pour un architecte, développée en **HTML**, **CSS** et **JavaScript**. Enrichie d'animations fluides grâce à **Swiper.js.**
 
+Galerie animée de projets architecturaux modernes avec navigation fluide par **Swiper.js**.  
+Chaque slide présente une maison design avec titre, description et bouton “Voir Projet”.
+
+Parfait pour des portfolios professionnels, studios d’architecture ou agences créatives.
+
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-⚡ **HTML** &nbsp;&nbsp;
-🎨 **CSS** &nbsp;&nbsp;
-💡 **JavaScript** &nbsp;&nbsp;
-🎬 **Swiper.js**
+- HTML5 sémantique
+- CSS3 avancé (typographie, media queries, parallax)
+- JavaScript ES6
+- [Swiper.js](https://swiperjs.com/) pour carrousel avec effet fade & pagination
+- Remix Icons pour les pictogrammes
+
+## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
+
+- Carrousel plein écran avec effet de transition fade
+- Parallax fluide sur les textes et images
+- Pagination fractionnée personnalisée
+- Navigation via boutons suivant / précédent
+- Intégration de liens sociaux persistants
+- Design sombre, moderne et responsive
+- Navigation mobile animée
+- Structure modulaire pour projet créatif
 
 ## <br /> <a name="installation">🚀 Installation</a>
 
-### ✅ Pré-requis
+### ✅ Prérequis
 
-🛠️ [**Git**](https://git-scm.com/) &nbsp;&nbsp;
-🔧 [**Node.js**](https://nodejs.org/fr) &nbsp;&nbsp;
-📦 [**npm**](https://www.npmjs.com/)
+- [Google Chrome](https://www.google.com/) — Navigateur moderne
+- [Visual Studio Code](https://code.visualstudio.com/) — Éditeur de code
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) — Extension VS Code
 
 ### 📥 Cloner le projet
 
 ```bash
-git clone git@github.com:ValentinMadiot/architecture-firm_ui.git
+git clone https://github.com/ValentinMadiot/background-animation-architect_js
+cd background-animation-architect_js
 ```
 
 ### ▶️ Lancer le projet
 
-Utilisez Live Server pour un rechargement en temps réel.
+Il suffit d’ouvrir le fichier `index.html` dans ton navigateur, ou d’utiliser **Live Server** pour un rendu interactif en local.

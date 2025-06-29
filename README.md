@@ -1,11 +1,10 @@
 <div align="center">  
-    <a href="https://architecte-firm.netlify.app/" target="_blank">  
-    <!-- <a href="https://background-animation-architect.netlify.app/" target="_blank">  -->
-      <img src=".docs/preview.png" alt="Aperçu du projet">  
-    </a>
-    </br>  
-    </br>  
-<h3 align="center">🏛️ Page Architecte – Slider Visuel Haut de Gamme</h3></div>
+  <a href="https://background-slider-architect.netlify.app/" target="_blank">
+    <img src=".docs/preview.png" alt="Aperçu du projet">  
+  </a>
+  </br></br>  
+  <h3 align="center">🏛️ Slider de Fond &nbsp;–&nbsp; Architecture</h3>
+</div>
 
 ## <br /> 📌 Sommaire
 
@@ -16,20 +15,17 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Création d'une landing page moderne et minimaliste pour un architecte, développée en **HTML**, **CSS** et **JavaScript**. Enrichie d'animations fluides grâce à **Swiper.js.**
+Landing page moderne et minimaliste pour architectes, développée en **HTML**, **CSS** et **JavaScript**, avec galerie animée grâce à **Swiper.js**. Chaque slide met en valeur un projet architectural design, accompagné d’un titre, d’une description et d’un bouton “Voir Projet”.
 
-Galerie animée de projets architecturaux modernes avec navigation fluide par **Swiper.js**.  
-Chaque slide présente une maison design avec titre, description et bouton “Voir Projet”.
-
-Parfait pour des portfolios professionnels, studios d’architecture ou agences créatives.
+Parfaite pour les portfolios professionnels, studios d’architecture ou agences créatives, cette interface responsive allie esthétique épurée, fluidité de navigation et mise en page impactante.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-- HTML5 sémantique
-- CSS3 avancé (typographie, media queries, parallax)
-- JavaScript ES6
-- [Swiper.js](https://swiperjs.com/) pour carrousel avec effet fade & pagination
-- Remix Icons pour les pictogrammes
+- HTML5 sémantique et accessible
+- CSS3 moderne avec variables, media queries et animations
+- JavaScript ES6 clair et modulaire
+- [Swiper.js](https://swiperjs.com/) pour slider principal et pagination
+- [Remix Icons](https://remixicon.com/) pour les icônes vectorielles
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
@@ -53,8 +49,8 @@ Parfait pour des portfolios professionnels, studios d’architecture ou agences 
 ### 📥 Cloner le projet
 
 ```bash
-git clone https://github.com/ValentinMadiot/background-animation-architect_js
-cd background-animation-architect_js
+git clone https://github.com/ValentinMadiot/background-slider-architect_js
+cd background-slider-architect_js
 ```
 
 ### ▶️ Lancer le projet
